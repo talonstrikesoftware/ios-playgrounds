@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Opaque Tutorials'/>
+        <page name='Function Builders'/>
+        <page name='Opaque Screencasts'/>
+        <page name='Implicit Returns'/>
+        <page name='Property Wrappers'/>
+        <page name='Synthesizing Default Values'/>
+        <page name='Self for Static Members'/>
+        <page name='Creating Uninitialized Arrays'/>
+        <page name='Diffing Ordered Collections'/>
+        <page name='Static and Class Subscripts'/>
+        <page name='Dynamic Member Lookup for Keypaths'/>
+        <page name='Keypaths for Tuples'/>
+        <page name='Equatable and Hashable conformance'/>
+        <page name='Ambiguous Enumaraion Cases'/>
+        <page name='Matching Optional Enumerations'/>
+        <page name='New String Features'/>
+        <page name='Miscellaneous'/>
+    </pages>
+</playground>
